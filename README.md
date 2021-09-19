@@ -9,7 +9,7 @@ Please ⭐️ this repo and share it with others
 ### Screenshots
 Scientific / Dark |  Standard / Colored
 :------------------:|:-------------------
-![Calculator - screenshot](screenshots/dark.PNG) | ![Calculator - screenshot](screenshots/colored.PNG)
+![Calculator - screenshot](photo.PNG) | 
 
 ### Requirements 🔧
 * Java version 8 or higher.
