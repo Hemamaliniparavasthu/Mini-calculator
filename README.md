@@ -12,7 +12,7 @@ Please ⭐️ this repo and share it with others
 
 
 ### Requirements 🔧
-* Java version 8 or higher.
+* Python version 3.9.5
 
 ### Installation 🔌
 1. Press the **Fork** button (top right the page) to save copy of this project on your account.
