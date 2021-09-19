@@ -8,7 +8,7 @@ Please ⭐️ this repo and share it with others
 
 ### Screenshots
 :------------------:|:-------------------
-![image](https://user-images.githubusercontent.com/89499370/133920767-28b82363-ad2a-4e33-8231-8be28fdd08c6.png)
+![photo](https://user-images.githubusercontent.com/89499370/133920810-885e206b-d987-4c1d-ae26-3ec638c24d5d.png)
 
 
 ### Requirements 🔧
