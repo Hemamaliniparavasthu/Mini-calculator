@@ -1,4 +1,4 @@
-# Calculator App
+# Mini calculator 
 A very basic calculator application created with Python.
 
 ## Thank You!
