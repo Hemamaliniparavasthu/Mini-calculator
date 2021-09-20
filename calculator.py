@@ -3,7 +3,6 @@ from tkinter import *
 import parser
 from math import factorial
 
-
 root = Tk()
 root.title('DataFlair - Calculator')
 
